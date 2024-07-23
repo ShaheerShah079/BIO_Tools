@@ -9,8 +9,10 @@
     <h1>Bio Tools App</h1>
     <p>Welcome to the Bio Tools Android Application, your comprehensive suite for bioinformatics tools. This application including Transcription, Translation, Palindrome detection, Open Reading
     Frame identification, GC Content calculation, Splicing, Global Alignment, Local Alignment, and Dot Plot matrix visualization offers a range of functionalities designed and
-    accessible for those working in the field of bioinformatics. Dive into each tool to explore and analyze genetic sequences in innovative and interactive ways.</p>
+    accessible for those working in the field of bioinformatics. Dive into each tool to explore and analyze genetic sequences in innovative and interactive ways.<b>(Also add the apk file with the repository just download it and use)</b></p>
 
+<h2>APK File</h2>
+<p>For those interested in using the application directly, an APK file is available for download. You can obtain the APK file from the repository to install and run the app on your Android device.</p>
 <h2>Table of Contents</h2>
 <ul>
     <li><a href="#main-screen">Main Screen</a></li>
@@ -60,5 +62,6 @@
 <h2 id="palindrome-screen">Palindrome Screen</h2>
 <p>The Palindrome Screen detects palindromic sequences within a DNA strand. These sequences read the same backward as forward. Input a DNA sequence, and the app highlights the palindromic regions,
     making it easy to identify symmetrical patterns. This tool is particularly useful for studying restriction enzyme recognition sites and genomic motifs.</p>
+
 </body>
 </html>
