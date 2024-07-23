@@ -1,38 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bio Tools App - README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-        }
-        h1, h2, h3 {
-            color: #2c3e50;
-        }
-        code {
-            background-color: #ecf0f1;
-            padding: 2px 4px;
-            border-radius: 3px;
-        }
-        pre {
-            background-color: #ecf0f1;
-            padding: 10px;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        li {
-            margin-bottom: 10px;
-        }
-    </style>
-</head>
-<body>
     <h1>Bio Tools App</h1>
     <p>This Android application provides several bioinformatics tools including Transcription, Translation, Palindrome detection, Open Reading Frame identification, GC Content calculation, Splicing, Global Alignment, Local Alignment, and Dot Plot matrix visualization. The app is designed to be user-friendly and accessible for those working in the field of bioinformatics.</p>
 
@@ -85,6 +50,3 @@
 
     <h2>License</h2>
     <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-
-</body>
-</html>
